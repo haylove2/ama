@@ -11,7 +11,7 @@ import java.util.Timer;
 //监听servlet 上下文
 public class SvContext implements ServletContextListener {
     public void contextInitialized(ServletContextEvent servletContextEvent) {
-        System.out.println("ServletContextListener上下文创建了");
+        System.out.println("ServletContextListener上下文创建了1");
 
     }
 
